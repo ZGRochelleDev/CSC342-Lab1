@@ -13,7 +13,7 @@ date: "May 2018"
 
 ---
 
-##Example:
+## Example:
 *Department: PHIL*  
 *Lowest: 0*  
 *Highest: 200*  
