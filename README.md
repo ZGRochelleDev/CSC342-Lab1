@@ -5,10 +5,7 @@ date: "May 2018"
 ---
 
 ### Project Requirements:
-*Write a bioinformatics program, in the language of your choice. All source code used must be your own; library packages may be used only with permission.*
-
-* Create a stored procedure for a database which stores tables for university departments. It must do the following:*
-
+*Create a stored procedure for a database which stores tables for university departments. It must do the following:*
 1. The procedure will accept an input parameter that identifies that department
 2. return output parameters for the lowest lab fee from that department
 3. return output parameters for the highest lab fee from that department
@@ -17,10 +14,7 @@ date: "May 2018"
 ---
 
 ##Example:
-*Department: PHIL*
-
-*Lowest: 0*
-
-*Highest: 200*
-
-*Difference: 200*
+*Department: PHIL*  
+*Lowest: 0*  
+*Highest: 200*  
+*Difference: 200*  
